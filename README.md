@@ -4,7 +4,7 @@ Proyek Bot Telegram untuk pencatatan dan pelaporan keuangan pribadi otomatis. Te
 
 ---
 
-## 📋 Perintah yang Tersedia di Telegram
+## 📋 Perintah yang Tersedia di Telegra
 
 Berikut adalah daftar perintah utama yang dapat digunakan di Bot Telegram:
 
