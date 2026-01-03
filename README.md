@@ -41,9 +41,9 @@ Bot ini dirancang untuk kecepatan input dan kemampuan analisis serta *maintenanc
 
 ### 2. Fitur Kunci
 
-* **Pencatatan Double-Entry:** Fokus pada pencatatan Pengeluaran dan Pemasukan secara terpisah.
-* **Saldo Real-time:** Menampilkan Saldo Kas & Bank aktual.
-* **Analisis Kategori:** Laporan pengeluaran dikelompokkan berdasarkan kategori.
+* **Pencatatan Double-Entry:** Setiap transaksi yang diinput melalui Telegram otomatis mencatat pengaruh pada dua sisi akun (misalnya mengurangi Kas dan menambah Beban) untuk menjamin akurasi saldo yang seimbang.
+* **Saldo Real-time:** Sinkronisasi otomatis yang menampilkan saldo Kas dan Bank aktual setiap kali ada transaksi masuk.
+* **Analisis Kategori:** Pengelompokan data secara otomatis untuk melihat tren pengeluaran pada kategori tertentu.
 
 ---
 
