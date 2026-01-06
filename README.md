@@ -52,3 +52,4 @@ Bot ini dirancang untuk kecepatan input dan kemampuan analisis serta *maintenanc
 **Owner Proyek & Auditor:** Frazka M.W
 
 ---
+project ini akan  terus berkembang jika di perlukan 
