@@ -49,7 +49,8 @@ Bot ini dirancang untuk kecepatan input dan kemampuan analisis serta *maintenanc
 
 ##  KREDIT DAN KONTRIBUTOR
 
-**Owner Proyek & Auditor:** Frazka M.W
+**Owner Proyek & Auditor:** Frazka Mulya Wijaya (FMW)
+
+project ini akan  terus berkembang jika di perlukan 
 
 ---
-project ini akan  terus berkembang jika di perlukan 
