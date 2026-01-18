@@ -54,3 +54,4 @@ Bot ini dirancang untuk kecepatan input dan kemampuan analisis serta *maintenanc
 project ini akan  terus berkembang jika di perlukan 
 
 ---
+saya akan menambahka fitur baru lagi untuk code nya...
